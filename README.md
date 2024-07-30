@@ -1,6 +1,6 @@
-## Das hier sind alle Daten für den Einstieg in Nintendo Switch Homebrew
+# Das hier sind alle Daten für den Einstieg in Nintendo Switch Homebrew
 
-# Hier ist das entsprechende Tutorial, wie man die Switch hackt:
+## Hier ist das entsprechende Tutorial, wie man die Switch hackt:
 
 
 [Nintendo-Switch-Jailbreak](https://github.com/Nico-Shock/Nintendo-Switch-Jailbreak)
