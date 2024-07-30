@@ -5,6 +5,9 @@
 
 [Nintendo-Switch-Jailbreak](https://github.com/Nico-Shock/Nintendo-Switch-Jailbreak)
 
+English Version:
+[Nintendo-Switch-Jailbreaking](https://github.com/Nico-Shock/Switch-Jailbreaking-Toturial)
+
 ## Hier sind die Sources, wo ich die Daten für das Pack her habe (für mehr Details geh auf die Releases Seite):
 
 Atmosphere: https://github.com/Atmosphere-NX/Atmosphere/releases
