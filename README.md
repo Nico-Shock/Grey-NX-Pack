@@ -27,3 +27,5 @@ Homebrew Apps:
 - [90DNS Setter](https://github.com/suchmememanyskill/switch-90dns-setter/releases)
 - [90DNS Tester](https://github.com/meganukebmp/Switch_90DNS_tester/releases/)
 - [Homebrew Menu](https://github.com/switchbrew/nx-hbmenu/releases/)
+- [Checkpoint](https://github.com/BernardoGiordano/Checkpoint/releases)
+- [Themezer-NX](https://github.com/suchmememanyskill/themezer-nx/releases)
