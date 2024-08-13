@@ -8,7 +8,7 @@
 English Version:
 [Nintendo-Switch-Jailbreaking](https://github.com/Nico-Shock/Switch-Jailbreaking-Toturial)
 
-| Homebrew Apps       | Standard Pack       | Minimal Pack        | Advanced Pack       |
+| CFW Daten/Homebrew Apps       | Standard Pack       | Minimal Pack        | Advanced Pack       |
 | ------------------- | ------------------- | ------------------- | ------------------- |
 | **Homebrew App Store** | 🟩                | 🟩                | 🟩                |
 | **90DNS Setter**    | 🟩                | 🟩                | 🟩                |
