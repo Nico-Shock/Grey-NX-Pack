@@ -9,7 +9,7 @@ English Version:
 [Nintendo-Switch-Jailbreaking](https://github.com/Nico-Shock/Switch-Jailbreaking-Toturial)
 
 
-| App / Link          | Standard Pack       | Advanced Pack       | Minimal Pack        |
+| Homebrew Apps       | Standard Pack       | Advanced Pack       | Minimal Pack        |
 | ------------------- | ------------------- | ------------------- | ------------------- |
 | **Homebrew App Store** | 🟩               | 🟩                | 🟩                |
 | **Daybreak**         | 🟩                | 🟩                |                  |
