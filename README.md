@@ -8,7 +8,7 @@
 English Version:
 [Nintendo-Switch-Jailbreaking](https://github.com/Nico-Shock/Switch-Jailbreaking-Toturial)
 
-| CFW Daten       | Standard Pack       | Advanced Pack       | Minimal Pack        |
+| Homebrew Apps       | Standard Pack       | Advanced Pack       | Minimal Pack        |
 | ------------------- | ------------------- | ------------------- | ------------------- |
 | **Homebrew App Store** | 🟩                | 🟩                | 🟩                |
 | **Daybreak**         | 🟩                | 🟩                |                   |
@@ -20,11 +20,6 @@ English Version:
 | **90DNS Tester**    | 🟩                | 🟩                | 🟩                |
 | **Checkpoint**      | 🟩                | 🟩                |                   |
 | **Themezer-NX**     | 🟩                | 🟩                |                   |
-| **Tinfoil**         |                   | 🟩                |                   |
-| **Sys-Clk**         |                   | 🟩                |                   |
-| **NX Activity Log** |                   | 🟩                |                   |
-| **Breeze**          |                   | 🟩                |                   |
-| **Cheats Updater**  |                   | 🟩                |                   |
 | **Atmosphere**      | 🟩                | 🟩                | 🟩                |
 | **Sigpatches**      | 🟩                | 🟩                | 🟩                |
 | **Sys-Patches**     | 🟩                | 🟩                | 🟩                |
@@ -33,3 +28,8 @@ English Version:
 | **Tesla-Menu**      | 🟩                | 🟩                | 🟩                |
 | **Ultrahand**       | 🟩                | 🟩                | 🟩                |
 | **Mission Control** | 🟩                | 🟩                | 🟩                |
+| **Tinfoil**         |                   | 🟩                |                   |
+| **Sys-Clk**         |                   | 🟩                |                   |
+| **NX Activity Log** |                   | 🟩                |                   |
+| **Breeze**          |                   | 🟩                |                   |
+| **Cheats Updater**  |                   | 🟩                |                   |
