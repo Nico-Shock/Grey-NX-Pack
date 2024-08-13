@@ -8,18 +8,11 @@
 English Version:
 [Nintendo-Switch-Jailbreaking](https://github.com/Nico-Shock/Switch-Jailbreaking-Toturial)
 
-| Homebrew Apps       | Standard Pack       | Advanced Pack       | Minimal Pack        |
+| Homebrew Apps       | Standard Pack       | Minimal Pack        | Advanced Pack       |
 | ------------------- | ------------------- | ------------------- | ------------------- |
 | **Homebrew App Store** | 🟩                | 🟩                | 🟩                |
-| **Daybreak**         | 🟩                | 🟩                |                   |
-| **DBI**             | 🟩                | 🟩                |                   |
-| **FTPD**            | 🟩                | 🟩                |                   |
-| **JKSV**            | 🟩                | 🟩                |                   |
-| **NXThemeInstaller**| 🟩                | 🟩                |                   |
 | **90DNS Setter**    | 🟩                | 🟩                | 🟩                |
 | **90DNS Tester**    | 🟩                | 🟩                | 🟩                |
-| **Checkpoint**      | 🟩                | 🟩                |                   |
-| **Themezer-NX**     | 🟩                | 🟩                |                   |
 | **Atmosphere**      | 🟩                | 🟩                | 🟩                |
 | **Sigpatches**      | 🟩                | 🟩                | 🟩                |
 | **Sys-Patches**     | 🟩                | 🟩                | 🟩                |
@@ -28,8 +21,15 @@ English Version:
 | **Tesla-Menu**      | 🟩                | 🟩                | 🟩                |
 | **Ultrahand**       | 🟩                | 🟩                | 🟩                |
 | **Mission Control** | 🟩                | 🟩                | 🟩                |
-| **Tinfoil**         |                   | 🟩                |                   |
-| **Sys-Clk**         |                   | 🟩                |                   |
-| **NX Activity Log** |                   | 🟩                |                   |
-| **Breeze**          |                   | 🟩                |                   |
-| **Cheats Updater**  |                   | 🟩                |                   |
+| **Daybreak**        | 🟩                |                   | 🟩                |
+| **DBI**             | 🟩                |                   | 🟩                |
+| **FTPD**            | 🟩                |                   | 🟩                |
+| **JKSV**            | 🟩                |                   | 🟩                |
+| **NXThemeInstaller**| 🟩                |                   | 🟩                |
+| **Checkpoint**      | 🟩                |                   | 🟩                |
+| **Themezer-NX**     | 🟩                |                   | 🟩                |
+| **Tinfoil**         |                   |                   | 🟩                |
+| **Sys-Clk**         |                   |                   | 🟩                |
+| **NX Activity Log** |                   |                   | 🟩                |
+| **Breeze**          |                   |                   | 🟩                |
+| **Cheats Updater**  |                   |                   | 🟩                |
