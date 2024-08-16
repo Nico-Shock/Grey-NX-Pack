@@ -33,3 +33,4 @@ English Version:
 | **NX Activity Log** |                   |                   | 🟩                |
 | **Breeze**          |                   |                   | 🟩                |
 | **Cheats Updater**  |                   |                   | 🟩                |
+| **emuiibo**  |                   |                   |        🟩                |
