@@ -32,6 +32,6 @@ English Version:
 | **Sys-Clk**                   | 🟩                   |                     |                     |
 | **NX Activity Log**           | 🟩                   |                     |                     |
 | **Breeze**                    | 🟩                   |                     |                     |
-| **Cheats Updater**            | 🟩                   |                     |                     |
+| **Aio-Switch-Updater**            | 🟩                   |                     |                     |
 | **emuiibo**                   | 🟩                   |                     |                     |
 
