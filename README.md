@@ -8,32 +8,34 @@
 English Version:
 [Nintendo-Switch-Jailbreaking](https://github.com/Nico-Shock/Switch-Jailbreaking-Toturial)
 
+
 | CFW Daten/Homebrew Apps       | Advanced Pack       | Standard Pack       | Minimal Pack        |
 | ----------------------------- | ------------------- | ------------------- | ------------------- |
-| **Homebrew App Store**        | 🟩                   | 🟩                   | 🟩                   |
-| **90DNS Setter**              | 🟩                   | 🟩                   | 🟩                   |
-| **90DNS Tester**              | 🟩                   | 🟩                   | 🟩                   |
-| **Atmosphere**                | 🟩                   | 🟩                   | 🟩                   |
-| **Sigpatches**                | 🟩                   | 🟩                   | 🟩                   |
-| **Sys-Patches**               | 🟩                   | 🟩                   | 🟩                   |
-| **Hekate**                    | 🟩                   | 🟩                   | 🟩                   |
-| **HB-Menu**                   | 🟩                   | 🟩                   | 🟩                   |
-| **Tesla-Menu**                | 🟩                   | 🟩                   | 🟩                   |
-| **Ultrahand**                 | 🟩                   | 🟩                   | 🟩                   |
-| **Mission Control**           | 🟩                   | 🟩                   | 🟩                   |
-| **Daybreak**                  | 🟩                   | 🟩                   |                     |
-| **DBI**                       | 🟩                   | 🟩                   |                     |
-| **FTPD**                      | 🟩                   | 🟩                   |                     |
-| **JKSV**                      | 🟩                   | 🟩                   |                     |
-| **NXThemeInstaller**          | 🟩                   | 🟩                   |                     |
-| **Checkpoint**                | 🟩                   | 🟩                   |                     |
-| **Themezer-NX**               | 🟩                   | 🟩                   |                     |
-| **Tinfoil**                   | 🟩                   |                     |                     |
-| **Sys-Clk**                   | 🟩                   |                     |                     |
-| **NX Activity Log**           | 🟩                   |                     |                     |
-| **Breeze**                    | 🟩                   |                     |                     |
-| **Aio-Switch-Updater**            | 🟩                   |                     |                     |
-| **emuiibo**                   | 🟩                   |                     |                     |
+| **Homebrew App Store**        | ✔️                   | ✔️                   | ✔️                   |
+| **Atmosphere**                | ✔️                   | ✔️                   | ✔️                   |
+| **Sigpatches**                | ✔️                   | ✔️                   | ✔️                   |
+| **Sys-Patches**               | ✔️                   | ✔️                   | ✔️                   |
+| **Hekate**                    | ✔️                   | ✔️                   | ✔️                   |
+| **HB-Menu**                   | ✔️                   | ✔️                   | ✔️                   |
+| **Tesla-Menu**                | ✔️                   | ✔️                   | ✔️                   |
+| **Ultrahand**                 | ✔️                   | ✔️                   | ✔️                   |
+| **Mission Control**           | ✔️                   | ✔️                   | ✔️                   |
+| **90DNS Setter**              | ✔️                   | ✔️                   | ✔️                   |
+| **90DNS Tester**              | ✔️                   | ✔️                   | ✔️                   |
+| **Daybreak**                  | ✔️                   | ✔️                   |                     |
+| **DBI**                       | ✔️                   | ✔️                   |                     |
+| **FTPD**                      | ✔️                   | ✔️                   |                     |
+| **JKSV**                      | ✔️                   | ✔️                   |                     |
+| **Checkpoint**                | ✔️                   | ✔️                   |                     |
+| **Aio-Switch-Updater**        | ✔️                   | ✔️                   |                     |
+| **NXThemeInstaller**          | ✔️                   | ✔️                   |                     |
+| **Themezer-NX**               | ✔️                   | ✔️                   |                     |
+| **Tinfoil**                   | ✔️                   |                     |                     |
+| **Sys-Clk**                   | ✔️                   |                     |                     |
+| **Breeze**                    | ✔️                   |                     |                     |
+| **emuiibo**                   | ✔️                   |                     |                     |
+| **NX Activity Log**           | ✔️                   |                     |                     |
+| **Moonlight**                 | ✔️                   |                     |                     |
 
 
 ## Aktuelle Dateien
@@ -50,7 +52,7 @@ English Version:
 
 [Tesla-Menu v.1.2.3](https://github.com/WerWolv/Tesla-Menu/releases/tag/v1.2.3)
 
-[Ultrahand v.1.6.9](https://github.com/ppkantorski/Ultrahand-Overlay/releases/tag/v1.6.9)
+[Ultrahand v.1.7.1](https://github.com/ppkantorski/Ultrahand-Overlay/releases/tag/v1.7.1)
 
 [Mission Control v.0.11.1](https://github.com/ndeadly/MissionControl/releases/tag/v0.11.1)
 
@@ -78,7 +80,9 @@ English Version:
 
 [AIo-Switch-Updater v.2.23.2](https://github.com/HamletDuFromage/aio-switch-updater/releases/tag/2.23.2)
 
-[Breeze v.92d](https://github.com/tomvita/Breeze-Beta/releases/tag/beta92d)
+[Moonlight v.1.2.1](https://github.com/XITRIX/Moonlight-Switch/releases/tag/v1.2.1)
+
+[Breeze beta92f](https://github.com/tomvita/Breeze-Beta/releases/tag/beta92f)
 
 [emuiibo v.1.1.1](https://github.com/XorTroll/emuiibo/releases/tag/1.1.1)
 
