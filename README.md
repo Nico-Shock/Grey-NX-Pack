@@ -93,6 +93,9 @@ English Version:
 [Hekate Icons & Wallpaper](https://gbatemp.net/threads/hekate-custom-ini-icon-background-set.572786/)
 
 
+### Optionale Daten:
+
+
 - *Die YouTube Patched.nsz ist eine gepatchte Version von YouTube, die optional installiert werden kann. Diese Version ist für Switch CFW, damit ihr YouTube auf der Switch vernünftig nutzen könnt.*
 
-- *Homebrew Menu.nsp" und "DB Installer.nsp" sind Shortcuts für das Home Menu, um die Apps darüber starten zu können.*
+- *"Homebrew Menu.nsp" und "DB Installer.nsp" sind Shortcuts für das Home Menu, um die Apps darüber starten zu können.*
