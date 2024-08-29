@@ -56,6 +56,12 @@ English Version:
 
 [Mission Control v.0.11.1](https://github.com/ndeadly/MissionControl/releases/tag/v0.11.1)
 
+[ProblemResolver v.0.3.5](https://github.com/Team-Neptune/CommonProblemResolver/releases/tag/v0.3.5)
+
+[LockPickRCM v.1.9.12](https://github.com/Decscots/Lockpick_RCM/releases/tag/v1.9.12)
+
+[TegraExplorer v.4.2.0](https://github.com/suchmememanyskill/TegraExplorer/releases/tag/4.2.0)
+
 [Daybreak](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/1.7.1)  
 
 [Homebrew App Store v.2.3.2](https://github.com/fortheusers/hb-appstore/releases/tag/v2.3.2)  
