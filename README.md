@@ -32,7 +32,7 @@ English Version:
 | [NXThemeInstaller](https://github.com/exelix11/SwitchThemeInjector/releases/tag/v4.7.1) | ✔️                   | ✔️                   |                     |
 | [Themezer-NX](https://github.com/suchmememanyskill/themezer-nx/releases/tag/2.0.0) | ✔️                   | ✔️                   |                     |
 | [Sys-Clk](https://github.com/retronx-team/sys-clk/releases/tag/2.0.0-rc) | ✔️                   |                     |                     |
-| [Goldleaf](https://github.com/Goldleaf/Goldleaf/releases/tag/v0.9.0) | ✔️                   |                     |                     |
+| [Goldleaf](https://github.com/XorTroll/Goldleaf/releases/tag/1.0.0) | ✔️                   |                     |                     |
 | [Edizon](https://github.com/Edizon/Edizon/releases/tag/v1.0.0) | ✔️                   |                     |                     |
 | [Edizon Overlay](https://github.com/Edizon/EdizonOverlay/releases/tag/v1.0.0) | ✔️                   |                     |                     |
 | [Breeze](https://github.com/tomvita/Breeze-Beta/releases/tag/beta92f) | ✔️                   |                     |                     |
