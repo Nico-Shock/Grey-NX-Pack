@@ -20,6 +20,7 @@ English Version:
 | **Tesla-Menu**                | ✔️                   | ✔️                   | ✔️                   |
 | **Ultrahand**                 | ✔️                   | ✔️                   | ✔️                   |
 | **Mission Control**           | ✔️                   | ✔️                   | ✔️                   |
+| **Status Monitor**            | ✔️                   | ✔️                   | ✔️                   |
 | **90DNS Setter**              | ✔️                   | ✔️                   | ✔️                   |
 | **90DNS Tester**              | ✔️                   | ✔️                   | ✔️                   |
 | **Daybreak**                  | ✔️                   | ✔️                   |                     |
@@ -31,6 +32,9 @@ English Version:
 | **NXThemeInstaller**          | ✔️                   | ✔️                   |                     |
 | **Themezer-NX**               | ✔️                   | ✔️                   |                     |
 | **Sys-Clk**                   | ✔️                   |                     |                     |
+| **Goldleaf**                  | ✔️                    |                    |                     |
+| **Edizon**                    | ✔️                    |                  |                     |
+| **Edizon Overlay**            | ✔️                   |                   |                     |
 | **Breeze**                    | ✔️                   |                     |                     |
 | **emuiibo**                   | ✔️                   |                     |                     |
 | **NX Activity Log**           | ✔️                   |                     |                     |
@@ -67,6 +71,8 @@ English Version:
 
 [DBI Installer 658](https://github.com/rashevskyv/dbi/releases/tag/658)  
 
+[nx-ovlloader v.1.0.7](https://github.com/WerWolv/nx-ovlloader/releases/tag/v1.0.7)
+
 [FTPD v.3.1.0](https://github.com/mtheall/ftpd/releases/tag/v3.1.0)  
 
 [JKSV 6.8.2024](https://github.com/J-D-K/JKSV/releases/tag/08%2F06%2F2024)  
@@ -76,8 +82,6 @@ English Version:
 [Checkpoint 3.8.0](https://github.com/BernardoGiordano/Checkpoint/releases/tag/v3.8.0)  
 
 [Themezer-NX 2.0.0](https://github.com/suchmememanyskill/themezer-nx/releases/tag/2.0.0)
-
-[Tinfoil 18.0](https://tinfoil.io/Download)
 
 [Sys-Clk v.2.0.0](https://github.com/retronx-team/sys-clk/releases/tag/2.0.0-rc)  
 
