@@ -30,7 +30,6 @@ English Version:
 | **Aio-Switch-Updater**        | ✔️                   | ✔️                   |                     |
 | **NXThemeInstaller**          | ✔️                   | ✔️                   |                     |
 | **Themezer-NX**               | ✔️                   | ✔️                   |                     |
-| **Tinfoil**                   | ✔️                   |                     |                     |
 | **Sys-Clk**                   | ✔️                   |                     |                     |
 | **Breeze**                    | ✔️                   |                     |                     |
 | **emuiibo**                   | ✔️                   |                     |                     |
