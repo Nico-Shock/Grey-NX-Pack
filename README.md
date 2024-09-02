@@ -32,9 +32,9 @@ English Version:
 | [NXThemeInstaller](https://github.com/exelix11/SwitchThemeInjector/releases/tag/v4.7.1) | ✔️                   | ✔️                   |                     |
 | [Themezer-NX](https://github.com/suchmememanyskill/themezer-nx/releases/tag/2.0.0) | ✔️                   | ✔️                   |                     |
 | [Sys-Clk](https://github.com/retronx-team/sys-clk/releases/tag/2.0.0-rc) | ✔️                   |                     |                     |
-| [Goldleaf](https://github.com/WerWolv/nx-ovlloader/releases/tag/v1.0.7) |                     | ✔️                   |                     |
-| [Edizon](https://github.com/WerWolv/nx-ovlloader/releases/tag/v1.0.7) |                     | ✔️                   |                     |
-| [Edizon Overlay](https://github.com/WerWolv/nx-ovlloader/releases/tag/v1.0.7) |                     | ✔️                   |                     |
+| [Goldleaf](https://github.com/Goldleaf/Goldleaf/releases/tag/v0.9.0) | ✔️                   |                     |                     |
+| [Edizon](https://github.com/Edizon/Edizon/releases/tag/v1.0.0) | ✔️                   |                     |                     |
+| [Edizon Overlay](https://github.com/Edizon/EdizonOverlay/releases/tag/v1.0.0) | ✔️                   |                     |                     |
 | [Breeze](https://github.com/tomvita/Breeze-Beta/releases/tag/beta92f) | ✔️                   |                     |                     |
 | [emuiibo](https://github.com/XorTroll/emuiibo/releases/tag/1.1.1) | ✔️                   |                     |                     |
 | [NX Activity Log](https://github.com/tallbl0nde/NX-Activity-Log/releases/tag/v1.4.0) | ✔️                   |                     |                     |
