@@ -38,3 +38,7 @@ English Version:
 | [emuiibo](https://github.com/XorTroll/emuiibo/releases/tag/1.1.1) | ✔️                   |                     |                     |
 | [NX Activity Log](https://github.com/tallbl0nde/NX-Activity-Log/releases/tag/v1.4.0) | ✔️                   |                     |                     |
 | [Moonlight](https://github.com/XITRIX/Moonlight-Switch/releases/tag/v1.2.1) | ✔️                   |                     |                     |
+
+
+
+## *Ich kann vom 16. bis zum 20. September keine Updates für das Pack herausbringen aus Gründen.*
