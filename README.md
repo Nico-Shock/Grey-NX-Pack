@@ -41,4 +41,4 @@ English Version:
 
 
 
-## *Ich kann vom 16. bis zum 20. September keine Updates für das Pack herausbringen aus Gründen.*
+## *Ich kann aus Gründen vom 16. bis zum 20. September keine Updates für das Pack herausbringen.*
