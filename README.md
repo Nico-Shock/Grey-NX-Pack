@@ -15,7 +15,7 @@ English Version:
 | [Sigpatches](https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-package3.571543/) | ✔️                   | ✔️                   | ✔️                   |
 | [Sys-Patches](https://github.com/impeeza/sys-patch/releases/tag/v1.5.2) | ✔️                   | ✔️                   | ✔️                   |
 | [Hekate](https://github.com/CTCaer/hekate/releases/tag/v6.2.1) | ✔️                   | ✔️                   | ✔️                   |
-| [HB-Menu](https://github.com/switchbrew/nx-hbmenu/releases?page=1) | ✔️                   | ✔️                   | ✔️                   |
+| [HB-Menu](https://github.com/switchbrew/nx-hbmenu/releases/tag/v3.6.0) | ✔️                   | ✔️                   | ✔️                   |
 | [Homebrew App Store](https://github.com/fortheusers/hb-appstore/releases/tag/v2.3.2) | ✔️                   | ✔️                   | ✔️                   |
 | [Ultrahand](https://github.com/ppkantorski/Ultrahand-Overlay/releases/tag/v1.7.2) | ✔️                   | ✔️                   | ✔️                   |
 | [Mission Control](https://github.com/ndeadly/MissionControl/releases/tag/v0.11.1) | ✔️                   | ✔️                   | ✔️                   |
