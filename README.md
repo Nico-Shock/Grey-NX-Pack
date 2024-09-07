@@ -12,7 +12,7 @@ English Version:
 | CFW Daten/Homebrew Apps       | Advanced Pack       | Standard Pack       | Minimal Pack        |
 | ----------------------------- | ------------------- | ------------------- | ------------------- |
 | [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/1.7.1) | ✔️                   | ✔️                   | ✔️                   |
-| [Sigpatches](https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-package3.571543/) | ✔️                   | ✔️                   | ✔️                   |
+| [Sigpatches](https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-package3.571543/page-177#post-10438165) | ✔️                   | ✔️                   | ✔️                   |
 | [Sys-Patches](https://github.com/impeeza/sys-patch/releases/tag/v1.5.2) | ✔️                   | ✔️                   | ✔️                   |
 | [Hekate](https://github.com/CTCaer/hekate/releases/tag/v6.2.1) | ✔️                   | ✔️                   | ✔️                   |
 | [HB-Menu](https://github.com/switchbrew/nx-hbmenu/releases/tag/v3.6.0) | ✔️                   | ✔️                   | ✔️                   |
