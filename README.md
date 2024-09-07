@@ -32,6 +32,7 @@ English Version:
 | [Themezer-NX](https://github.com/suchmememanyskill/themezer-nx/releases/tag/2.0.0) | ✔️                   | ✔️                   |                     |
 | [Sys-Clk](https://github.com/retronx-team/sys-clk/releases/tag/2.0.0-rc) | ✔️                   |                     |                     |
 | [Goldleaf](https://github.com/XorTroll/Goldleaf/releases/tag/1.0.0) | ✔️                   |                     |                     |
+| [NX-Dumptool](https://github.com/DarkMatterCore/nxdumptool/releases/tag/rewrite-prerelease) | ✔️                   |                     |                     |
 | [Edizon-SE](https://github.com/tomvita/EdiZon-SE/releases/tag/3.8.36) | ✔️                   |                     |                     |
 | [Edizon Overlay](https://github.com/proferabg/EdiZon-Overlay/releases/tag/v1.0.8) | ✔️                   |                     |                     |
 | [Breeze](https://github.com/tomvita/Breeze-Beta/releases/tag/beta92f) | ✔️                   |                     |                     |
