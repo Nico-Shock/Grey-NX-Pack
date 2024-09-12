@@ -35,10 +35,11 @@ English Version:
 | [NX-Dumptool](https://github.com/DarkMatterCore/nxdumptool/releases/tag/rewrite-prerelease) | ✔️                   |                     |                     |
 | [Edizon-SE](https://github.com/tomvita/EdiZon-SE/releases/tag/3.8.36) | ✔️                   |                     |                     |
 | [Edizon Overlay](https://github.com/proferabg/EdiZon-Overlay/releases/tag/v1.0.8) | ✔️                   |                     |                     |
-| [Breeze](https://github.com/tomvita/Breeze-Beta/releases/tag/beta92f) | ✔️                   |                     |                     |
+| [Breeze](https://github.com/tomvita/Breeze-Beta/releases/tag/beta93) | ✔️                   |                     |                     |
 | [emuiibo](https://github.com/XorTroll/emuiibo/releases/tag/1.1.1) | ✔️                   |                     |                     |
 | [NX Activity Log](https://github.com/tallbl0nde/NX-Activity-Log/releases/tag/v1.4.0) | ✔️                   |                     |                     |
 | [Moonlight](https://github.com/XITRIX/Moonlight-Switch/releases/tag/v1.2.1) | ✔️                   |                     |                     |
+| [uLaunch](https://github.com/XorTroll/uLaunch/releases/tag/1.0.0) | ✔️                   |                     |                     |
 
 *[Grey-NX Pack Downloader](https://github.com/Nico-Shock/Grey-NX-Pack/releases/download/v.1.0.8/Grey_NX_Pack_Downloader.7z)*
 
