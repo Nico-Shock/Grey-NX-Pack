@@ -19,7 +19,7 @@ English Version:
 | [Homebrew App Store](https://github.com/fortheusers/hb-appstore/releases/tag/v2.3.2) | ✔️                   | ✔️                   | ✔️                   |
 | [Ultrahand](https://github.com/ppkantorski/Ultrahand-Overlay/releases/tag/v1.7.6) | ✔️                   | ✔️                   | ✔️                   |
 | [Mission Control](https://github.com/ndeadly/MissionControl/releases/tag/v0.11.1) | ✔️                   | ✔️                   | ✔️                   |
-| [Status Monitor](https://github.com/Team-Neptune/CommonProblemResolver/releases/tag/v0.3.5) | ✔️                   | ✔️                   | ✔️                   |
+| [Status Monitor](https://github.com/masagrator/Status-Monitor-Overlay/releases/tag/1.1.3) | ✔️                   | ✔️                   | ✔️                   |
 | [90DNS Setter](https://github.com/suchmememanyskill/switch-90dns-setter/releases) | ✔️                   | ✔️                   | ✔️                   |
 | [90DNS Tester](https://github.com/meganukebmp/Switch_90DNS_tester/releases/) | ✔️                   | ✔️                   | ✔️                   |
 | [Daybreak](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/1.7.1) | ✔️                   | ✔️                   |                     |
