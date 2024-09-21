@@ -42,7 +42,7 @@ English Version:
 | [Moonlight](https://github.com/XITRIX/Moonlight-Switch/releases/tag/v1.2.1) | ✔️                   |                     |                     |
 | [uLaunch](https://github.com/XorTroll/uLaunch/releases/tag/1.0.0) | ✔️                   |                     |                     |
 
+### Hier ist ein Script, das in Linux oder Windows ausgeführt werden kann und immer die aktuellsten Packs direkt herunterlädt:
+
 *[Grey-NX Pack Downloader](https://github.com/Nico-Shock/Grey-NX-Pack/releases/download/v.1.0.8/Grey_NX_Pack_Downloader.7z)*
 
-
-## *Ich kann aus Gründen vom 16. bis zum 20. September keine Updates für das Pack herausbringen.*
