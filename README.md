@@ -17,7 +17,7 @@ English Version:
 | [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/1.7.1) | ✅                   | ✅                   | ✅                   |
 | [Sigpatches](https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-package3.571543/page-177#post-10438165) | ✅                   | ✅                   | ✅                   |
 | [Sys-Patches](https://github.com/impeeza/sys-patch/releases/tag/v1.5.2) | ✅                   | ✅                   | ✅                   |
-| [Hekate](https://github.com/CTCaer/hekate/releases/tag/v6.2.1) | ✅                   | ✅                   | ✅                   |
+| [Hekate](https://github.com/CTCaer/hekate/releases/tag/v6.2.2) | ✅                   | ✅                   | ✅                   |
 | [HB-Menu](https://github.com/switchbrew/nx-hbmenu/releases/tag/v3.6.0) | ✅                   | ✅                   | ✅                   |
 | [Homebrew App Store](https://github.com/fortheusers/hb-appstore/releases/tag/v2.3.2) | ✅                   | ✅                   | ✅                   |
 | [Ultrahand](https://github.com/ppkantorski/Ultrahand-Overlay/releases/tag/v1.7.8) | ✅                   | ✅                   | ✅                   |
@@ -36,10 +36,9 @@ English Version:
 | [Sys-Clk](https://github.com/retronx-team/sys-clk/releases/tag/2.0.0-rc) | ✅                   |                     |                     |
 | [Goldleaf](https://github.com/XorTroll/Goldleaf/releases/tag/1.0.0) | ✅                   |                     |                     |
 | [Edizon-SE](https://github.com/tomvita/EdiZon-SE/releases/tag/3.8.36) | ✅                   |                     |                     |
-| [Edizon Overlay](https://github.com/proferabg/EdiZon-Overlay/releases/tag/v1.0.8) | ✅                   |                     |                     |
-| [Breeze](https://github.com/tomvita/Breeze-Beta/releases/tag/beta94b) | ✅                   |                     |                     |
 | [emuiibo](https://github.com/XorTroll/emuiibo/releases/tag/1.1.1) | ✅                   |                     |                     |
 | [NX Activity Log](https://github.com/tallbl0nde/NX-Activity-Log/releases/tag/v1.4.0) | ✅                   |                     |                     |
 | [Moonlight](https://github.com/XITRIX/Moonlight-Switch/releases/tag/v1.2.1) | ✅                   |                     |                     |
 | [uLaunch](https://github.com/XorTroll/uLaunch/releases/tag/1.0.0) | ✅                   |                     |                     |
-
+| [Edizon Overlay](https://github.com/proferabg/EdiZon-Overlay/releases/tag/v1.0.8) | ✅                   |                     |                     |
+| [Mod-Alchemist](https://github.com/ppkantorski/Mod-Alchemist/releases/tag/v0.4.8) | ✅                   |                     |                     |
