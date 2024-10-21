@@ -1,11 +1,11 @@
 # Das hier ist das Grey-NX Pack, ein einfaches Nintendo Switch CFW Pack, basierend auf Stabilität.
 
-## Hier ist das entsprechende Tutorial, wie man die Switch hackt:
+## Hier sind die entsprechenden Links zu den Hacking Guides:
 
-
+Deutsch:  
 [Nintendo-Switch-Jailbreak](https://github.com/Nico-Shock/Nintendo-Switch-Jailbreak)
 
-English Version:
+English:  
 [Nintendo-Switch-Jailbreaking](https://github.com/Nico-Shock/Switch-Jailbreaking-Toturial)
 
 Offizielles Tutorial:  
