@@ -8,6 +8,9 @@
 English Version:
 [Nintendo-Switch-Jailbreaking](https://github.com/Nico-Shock/Switch-Jailbreaking-Toturial)
 
+Offizielles Tutorial:  
+[Switch-Hacks-Guide](https://switch.hacks.guide/)
+
 
 | CFW Daten/Homebrew Apps       | Advanced Pack       | Standard Pack       | Minimal Pack        |
 | ----------------------------- | ------------------- | ------------------- | ------------------- |
