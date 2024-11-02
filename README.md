@@ -18,6 +18,9 @@ Offizielles Tutorial:
 | [Sigpatches](https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-package3.571543/page-177#post-10438165) | ✅                   | ✅                   | ✅                   |
 | [Sys-Patches](https://github.com/impeeza/sys-patch/releases/tag/v1.5.2) | ✅                   | ✅                   | ✅                   |
 | [nx-ovlloader](https://github.com/ppkantorski/nx-ovlloader/releases/tag/v1.0.8)  | ✅                   | ✅                   | ✅                   |
+| [Lockpick RCM](https://github.com/Kofysh/Lockpick_RCM/releases/tag/v1.9.12)  | ✅                   | ✅                   | ✅                   |
+| [ProblemResolver](https://github.com/Team-Neptune/CommonProblemResolver/releases/tag/v0.3.5)  | ✅                   | ✅                   | ✅                   |
+| [TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer/releases/tag/4.2.0)  | ✅                   | ✅                   | ✅                   |
 | [Hekate](https://github.com/CTCaer/hekate/releases/tag/v6.2.2) | ✅                   | ✅                   | ✅                   |
 | [HB-Menu](https://github.com/switchbrew/nx-hbmenu/releases/tag/v3.6.0) | ✅                   | ✅                   | ✅                   |
 | [Homebrew App Store](https://github.com/fortheusers/hb-appstore/releases/tag/v2.3.2) | ✅                   | ✅                   | ✅                   |
