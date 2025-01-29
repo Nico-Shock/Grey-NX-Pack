@@ -1,12 +1,6 @@
 # Das hier ist das Grey-NX Pack, ein einfaches Nintendo Switch CFW Pack, basierend auf Stabilität.
 
-## Hier sind die entsprechenden Links zu den Hacking Guides:
-
-Deutsch:  
-[Nintendo-Switch-Jailbreak](https://github.com/Nico-Shock/Nintendo-Switch-Jailbreak)
-
-English:  
-[Nintendo-Switch-Jailbreaking](https://github.com/Nico-Shock/Switch-Jailbreaking-Toturial)
+## Hier der entsprechende Link zu dem Hacking Guide:
 
 Offizielles Tutorial:  
 [Switch-Hacks-Guide](https://switch.hacks.guide/)
@@ -26,11 +20,11 @@ Offizielles Tutorial:
 | [Homebrew App Store](https://github.com/fortheusers/hb-appstore/releases/tag/v2.3.2) | ✅                   | ✅                   | ✅                   |
 | [Ultrahand](https://github.com/ppkantorski/Ultrahand-Overlay/releases/tag/v1.8.2) | ✅                   | ✅                   | ✅                   |
 | [Mission Control](https://github.com/ndeadly/MissionControl/releases/tag/v0.12.0) | ✅                   | ✅                   | ✅                   |
-| [Status Monitor](https://github.com/masagrator/Status-Monitor-Overlay/releases/tag/1.1.6) | ✅                   | ✅                   | ✅                   |
+| [Status Monitor](https://github.com/masagrator/Status-Monitor-Overlay/releases/tag/1.1.7a) | ✅                   | ✅                   | ✅                   |
 | [90DNS Setter](https://github.com/suchmememanyskill/switch-90dns-setter/releases) | ✅                   | ✅                   | ✅                   |
 | [90DNS Tester](https://github.com/meganukebmp/Switch_90DNS_tester/releases/tag/v1.0.4) | ✅                   | ✅                   | ✅                   |
 | [Mod-Alchemist](https://github.com/ppkantorski/Mod-Alchemist/releases/tag/v0.4.9) | ✅                   |  ✅                   |  ✅                   |
-| [Daybreak](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/1.7.1) | ✅                   | ✅                   |                     |
+| [Daybreak](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/1.8.0-prerelease) | ✅                   | ✅                   |                     |
 | [DBI](https://github.com/rashevskyv/dbi/releases/tag/658) | ✅                   | ✅                   |                     |
 | [FTPD](https://github.com/mtheall/ftpd/releases/tag/v3.2.1) | ✅                   | ✅                   |                     |
 | [JKSV](https://github.com/J-D-K/JKSV/releases/tag/11%2F05%2F2024) | ✅                   | ✅                   |                     |
@@ -44,5 +38,12 @@ Offizielles Tutorial:
 | [emuiibo](https://github.com/XorTroll/emuiibo/releases/tag/1.1.1) | ✅                   |                     |                     |
 | [NX Activity Log](https://github.com/tallbl0nde/NX-Activity-Log/releases/tag/v1.4.0) | ✅                   |                     |                     |
 | [Moonlight](https://github.com/XITRIX/Moonlight-Switch/releases/tag/v1.2.3) | ✅                   |                     |                     |
-| [uLaunch](https://github.com/XorTroll/uLaunch/releases/tag/1.0.0) | ✅                   |                     |                     |
 | [Edizon Overlay](https://github.com/proferabg/EdiZon-Overlay/releases/tag/v1.0.9) | ✅                   |                     |                     |
+
+
+
+Deutsch:  
+[Nintendo-Switch-Jailbreak](https://github.com/Nico-Shock/Nintendo-Switch-Jailbreak)
+
+English:  
+[Nintendo-Switch-Jailbreaking](https://github.com/Nico-Shock/Switch-Jailbreaking-Toturial)
