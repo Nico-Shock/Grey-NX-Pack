@@ -1,4 +1,5 @@
-# **[Grey-NX-Pack Webseite](https://nico-shock.github.io/Grey-NX-Pack/)**
+## [Grey-NX-Pack Webseite](https://nico-shock.github.io/Grey-NX-Pack/)
+
 
 # Das hier ist das Grey-NX Pack, ein einfaches Nintendo Switch CFW Pack, basierend auf Stabilität.
 
@@ -41,8 +42,6 @@ Offizielles Tutorial:
 | [NX Activity Log](https://github.com/tallbl0nde/NX-Activity-Log/releases/tag/v1.4.0) | ✅                   |                     |                     |
 | [Moonlight](https://github.com/XITRIX/Moonlight-Switch/releases/tag/v1.2.3) | ✅                   |                     |                     |
 | [Edizon Overlay](https://github.com/proferabg/EdiZon-Overlay/releases/tag/v1.0.9) | ✅                   |                     |                     |
-
-
 
 Deutsch:  
 [Nintendo-Switch-Jailbreak](https://github.com/Nico-Shock/Nintendo-Switch-Jailbreak)
