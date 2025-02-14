@@ -6,71 +6,38 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Grey-NX Pack</title>
   <style>
-    :root {
-      --bg-color: #0a0f1c;
-      --container-bg: #111827;
-      --header-footer-bg: #1f2937;
-      --text-color: #e0e0e0;
-      --accent-color: #4ea8ff;
-      --outer-border: 1px solid #374151;
-      --table-border: 1px solid #333;
-      --button-bg: #8A2BE2;
-      --button-bg-hover: #68228B;
-    }
-    * {
-      box-sizing: border-box;
-    }
     body {
-      background-color: var(--bg-color);
-      color: var(--text-color);
+      background-color: #121212;
+      color: #e0e0e0;
       font-family: 'Segoe UI', sans-serif;
-      font-size: 16px;
+      font-size: 17px;
       margin: 0;
-      padding: 10px;
+      padding: 20px;
       display: flex;
       justify-content: center;
-      align-items: center;
-      min-height: 100vh;
     }
-.container {
-  max-width: 960px;
-  width: 100%;
-  background-color: var(--container-bg);
-  padding: 0; /* Kein Padding, damit Header/Footer direkt an der Umrandung sind */
-  border: var(--outer-border);
-  border-radius: 0;
-  display: flex;
-  flex-direction: column;
-header, footer {
-  background-color: var(--header-footer-bg);
-  padding: 10px;
-  text-align: center;
-  border-left: var(--outer-border);
-  border-right: var(--outer-border);
-}
-    header h1, footer p {
-      margin: 0;
-      font-weight: bold;
+    .container {
+      max-width: 960px;
+      width: 100%;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    header, footer {
+      text-align: center;
+      padding: 10px 0;
     }
     h1, h2, h3 {
       color: #ffffff;
-      margin: 0.5em 0;
     }
     a {
-      color: var(--accent-color);
+      color: #bb86fc;
       text-decoration: none;
-      transition: color 0.3s;
     }
     a:hover {
-      color: #93c5fd;
       text-decoration: underline;
     }
     p {
-      line-height: 1.4;
-      margin: 0 0 1em;
-    }
-    section {
-      padding: 10px;
+      line-height: 1.6;
     }
     table {
       width: 100%;
@@ -80,26 +47,26 @@ header, footer {
     }
     th, td {
       padding: 5px 8px;
-      border: var(--table-border);
+      border: 1px solid #333;
       text-align: left;
     }
     th {
-      background-color: var(--header-footer-bg);
-      text-transform: uppercase;
-    }
-    tr:nth-child(even) {
-      background-color: rgba(255,255,255,0.05);
+      background-color: #1e1e1e;
     }
     .download-section {
+      margin-top: 40px;
       text-align: center;
-      padding: 10px;
+    }
+    .download-section h2 {
+      margin-bottom: 20px;
+      font-size: 1.8em;
+      color: #ffffff;
     }
     .download-buttons {
       display: flex;
       justify-content: center;
       gap: 15px;
       flex-wrap: wrap;
-      margin-bottom: 15px;
     }
     .download-buttons a {
       background-color: #007BFF;
@@ -115,17 +82,17 @@ header, footer {
     }
     .releases-button {
       display: inline-block;
-      background-color: var(--button-bg);
+      background-color: #8A2BE2;
       color: #ffffff;
       padding: 12px 25px;
       border-radius: 50px;
       text-decoration: none;
       font-size: 0.9em;
       transition: background-color 0.3s;
-      margin-top: 40px;
+      margin-top: 3cm;
     }
     .releases-button:hover {
-      background-color: var(--button-bg-hover);
+      background-color: #68228B;
     }
   </style>
 </head>
