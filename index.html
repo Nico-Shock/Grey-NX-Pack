@@ -5,93 +5,157 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Grey-NX Pack</title>
   <style>
+    :root {
+      --bg-color: #0a0f1c;
+      --container-bg: #111827;
+      --header-footer-bg: #1f2937;
+      --text-color: #e0e0e0;
+      --accent-color: #60a5fa;
+      --border-color: #374151;
+      --table-header-bg: #1e293b;
+      --row-even-bg: #121826;
+      --button-bg: #007bff;
+      --button-bg-hover: #0056b3;
+      --secondary-button-bg: #8A2BE2;
+      --secondary-button-bg-hover: #68228B;
+      --shadow-glow: 0px 0px 10px rgba(0, 122, 255, 0.4);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
     body {
-      background-color: #121212;
-      color: #e0e0e0;
+      background-color: var(--bg-color);
+      color: var(--text-color);
       font-family: 'Segoe UI', sans-serif;
-      font-size: 17px;
+      font-size: 16px;
       margin: 0;
-      padding: 20px;
+      padding: 10px;
       display: flex;
       justify-content: center;
+      align-items: center;
+      min-height: 100vh;
     }
+
     .container {
       max-width: 960px;
       width: 100%;
+      background-color: var(--container-bg);
       border-radius: 8px;
       overflow: hidden;
+      box-shadow: var(--shadow-glow);
+      border: 1px solid var(--border-color);
+      margin: 10px;
     }
+
     header, footer {
+      background-color: var(--header-footer-bg);
+      padding: 15px;
       text-align: center;
-      padding: 10px 0;
     }
+
+    header h1, footer p {
+      margin: 0;
+      font-weight: bold;
+    }
+
     h1, h2, h3 {
       color: #ffffff;
+      margin: 0.5em 0;
     }
+
     a {
-      color: #bb86fc;
+      color: var(--accent-color);
       text-decoration: none;
+      transition: color 0.3s, text-shadow 0.3s;
     }
+
     a:hover {
-      text-decoration: underline;
+      color: #93c5fd;
+      text-shadow: 0px 0px 5px rgba(96, 165, 250, 0.8);
     }
+
     p {
-      line-height: 1.6;
+      line-height: 1.4;
+      margin: 0 0 1em;
     }
+
+    section {
+      padding: 15px;
+    }
+
     table {
       width: 100%;
       border-collapse: collapse;
-      margin: 20px 0;
-      font-size: 0.9em;
+      margin: 15px 0;
+      font-size: 0.85em;
+      border-radius: 6px;
+      overflow: hidden;
     }
+
     th, td {
-      padding: 5px 8px;
-      border: 1px solid #333;
+      padding: 8px;
+      border: 1px solid var(--border-color);
       text-align: left;
     }
+
     th {
-      background-color: #1e1e1e;
+      background-color: var(--table-header-bg);
+      text-transform: uppercase;
     }
+
+    tr:nth-child(even) {
+      background-color: var(--row-even-bg);
+    }
+
     .download-section {
-      margin-top: 40px;
       text-align: center;
+      padding: 15px;
     }
+
     .download-section h2 {
-      margin-bottom: 20px;
-      font-size: 1.8em;
-      color: #ffffff;
+      font-size: 1.6em;
+      margin-bottom: 15px;
     }
+
     .download-buttons {
       display: flex;
       justify-content: center;
-      gap: 15px;
+      gap: 10px;
       flex-wrap: wrap;
+      margin-bottom: 15px;
     }
+
     .download-buttons a {
-      background-color: #007BFF;
+      background-color: var(--button-bg);
       color: #ffffff;
-      padding: 12px 20px;
-      border-radius: 5px;
+      padding: 10px 15px;
+      border-radius: 6px;
       text-decoration: none;
-      font-size: 0.9em;
-      transition: background-color 0.3s;
+      font-size: 0.85em;
+      transition: background-color 0.3s, box-shadow 0.3s;
     }
+
     .download-buttons a:hover {
-      background-color: #0056b3;
+      background-color: var(--button-bg-hover);
+      box-shadow: var(--shadow-glow);
     }
+
     .releases-button {
       display: inline-block;
-      background-color: #8A2BE2;
+      background-color: var(--secondary-button-bg);
       color: #ffffff;
-      padding: 12px 25px;
-      border-radius: 50px;
+      padding: 10px 20px;
+      border-radius: 30px;
       text-decoration: none;
-      font-size: 0.9em;
-      transition: background-color 0.3s;
-      margin-top: 3cm;
+      font-size: 0.85em;
+      transition: background-color 0.3s, box-shadow 0.3s;
     }
+
     .releases-button:hover {
-      background-color: #68228B;
+      background-color: var(--secondary-button-bg-hover);
+      box-shadow: var(--shadow-glow);
     }
   </style>
 </head>
@@ -101,10 +165,12 @@
       <h1>Das hier ist das Grey-NX Pack</h1>
       <p>Ein einfaches Nintendo Switch CFW Pack, basierend auf Stabilität.</p>
     </header>
+
     <section>
       <h2>Hier der entsprechende Link zu dem Hacking Guide:</h2>
       <p>Offizielles Tutorial: <a href="https://switch.hacks.guide/" target="_blank">Switch-Hacks-Guide</a></p>
     </section>
+
     <section>
       <h2>CFW Daten/Homebrew Apps</h2>
       <table>
@@ -306,6 +372,7 @@
         </tbody>
       </table>
     </section>
+
     <section class="download-section">
       <h2>Downloads</h2>
       <div class="download-buttons">
@@ -315,6 +382,7 @@
       </div>
       <a class="releases-button" href="https://github.com/Nico-Shock/Grey-NX-Pack/releases" target="_blank">Alle Releases ansehen</a>
     </section>
+
     <footer>
       <p>&copy; 2025 Grey-NX Pack</p>
     </footer>
