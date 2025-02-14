@@ -31,20 +31,22 @@
       align-items: center;
       min-height: 100vh;
     }
-    .container {
-      max-width: 960px;
-      width: 100%;
-      background-color: var(--container-bg);
-      margin: 10px;
-      padding: 20px;
-      border: var(--outer-border);
-      border-radius: 0;
-    }
-    header, footer {
-      background-color: var(--header-footer-bg);
-      padding: 10px;
-      text-align: center;
-    }
+.container {
+  max-width: 960px;
+  width: 100%;
+  background-color: var(--container-bg);
+  padding: 0; /* Kein Padding, damit Header/Footer direkt an der Umrandung sind */
+  border: var(--outer-border);
+  border-radius: 0;
+  display: flex;
+  flex-direction: column;
+header, footer {
+  background-color: var(--header-footer-bg);
+  padding: 10px;
+  text-align: center;
+  border-left: var(--outer-border);
+  border-right: var(--outer-border);
+}
     header h1, footer p {
       margin: 0;
       font-weight: bold;
