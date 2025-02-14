@@ -5,145 +5,125 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Grey-NX Pack</title>
   <style>
-:root {
-  --bg-color: #0a0f1c;
-  --container-bg: #111827;
-  --header-footer-bg: #1f2937;
-  --text-color: #e0e0e0;
-  --accent-color: #60a5fa;
-  --border-color: #374151;
-  --table-header-bg: #1e293b;
-  --row-even-bg: #121826;
-  --button-bg: #8A2BE2;
-  --button-bg-hover: #68228B;
-  --secondary-button-bg: #5a189a;
-  --secondary-button-bg-hover: #3c096c;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-body {
-  background-color: var(--bg-color);
-  color: var(--text-color);
-  font-family: 'Segoe UI', sans-serif;
-  font-size: 16px;
-  margin: 0;
-  padding: 10px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-}
-
-.container {
-  max-width: 960px;
-  width: 100%;
-  background-color: var(--container-bg);
-  border: 1px solid var(--border-color);
-  margin: 10px;
-}
-
-header, footer {
-  background-color: var(--header-footer-bg);
-  padding: 10px;
-  text-align: center;
-}
-
-header h1, footer p {
-  margin: 0;
-  font-weight: bold;
-}
-
-h1, h2, h3 {
-  color: #ffffff;
-  margin: 0.5em 0;
-}
-
-a {
-  color: var(--accent-color);
-  text-decoration: none;
-  transition: color 0.3s;
-}
-
-a:hover {
-  color: #93c5fd;
-}
-
-p {
-  line-height: 1.4;
-  margin: 0 0 1em;
-}
-
-section {
-  padding: 10px;
-}
-
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 15px 0;
-  font-size: 0.85em;
-}
-
-th, td {
-  padding: 5px;
-  border: 1px solid var(--border-color);
-  text-align: left;
-}
-
-th {
-  background-color: var(--table-header-bg);
-  text-transform: uppercase;
-}
-
-tr:nth-child(even) {
-  background-color: var(--row-even-bg);
-}
-
-.download-section {
-  text-align: center;
-  padding: 10px;
-}
-
-.download-buttons {
-  display: flex;
-  justify-content: center;
-  gap: 10px;
-  flex-wrap: wrap;
-  margin-bottom: 15px;
-}
-
-.download-buttons a {
-  background-color: #007BFF;
-  color: #ffffff;
-  padding: 12px 20px;
-  border-radius: 3px;
-  text-decoration: none;
-  font-size: 0.9em;
-  transition: background-color 0.3s;
-}
-
-.download-buttons a:hover {
-  background-color: #0056b3;
-}
-
-.releases-button {
-  display: inline-block;
-  background-color: #8A2BE2;
-  color: #ffffff;
-  padding: 12px 25px;
-  border-radius: 5px;
-  text-decoration: none;
-  font-size: 0.9em;
-  transition: background-color 0.3s;
-  margin-top: 40px;
-}
-
-.releases-button:hover {
-  background-color: #68228B;
-}
+    :root {
+      --bg-color: #0a0f1c;
+      --container-bg: #111827;
+      --header-footer-bg: #1f2937;
+      --text-color: #e0e0e0;
+      --accent-color: #4ea8ff;
+      --outer-border: 1px solid #374151;
+      --table-border: 1px solid #333;
+      --button-bg: #8A2BE2;
+      --button-bg-hover: #68228B;
+    }
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      background-color: var(--bg-color);
+      color: var(--text-color);
+      font-family: 'Segoe UI', sans-serif;
+      font-size: 16px;
+      margin: 0;
+      padding: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+    .container {
+      max-width: 960px;
+      width: 100%;
+      background-color: var(--container-bg);
+      margin: 10px;
+      padding: 20px;
+      border: var(--outer-border);
+      border-radius: 0;
+    }
+    header, footer {
+      background-color: var(--header-footer-bg);
+      padding: 10px;
+      text-align: center;
+    }
+    header h1, footer p {
+      margin: 0;
+      font-weight: bold;
+    }
+    h1, h2, h3 {
+      color: #ffffff;
+      margin: 0.5em 0;
+    }
+    a {
+      color: var(--accent-color);
+      text-decoration: none;
+      transition: color 0.3s;
+    }
+    a:hover {
+      color: #93c5fd;
+      text-decoration: underline;
+    }
+    p {
+      line-height: 1.4;
+      margin: 0 0 1em;
+    }
+    section {
+      padding: 10px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+      font-size: 0.9em;
+    }
+    th, td {
+      padding: 5px 8px;
+      border: var(--table-border);
+      text-align: left;
+    }
+    th {
+      background-color: var(--header-footer-bg);
+      text-transform: uppercase;
+    }
+    tr:nth-child(even) {
+      background-color: rgba(255,255,255,0.05);
+    }
+    .download-section {
+      text-align: center;
+      padding: 10px;
+    }
+    .download-buttons {
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+      flex-wrap: wrap;
+      margin-bottom: 15px;
+    }
+    .download-buttons a {
+      background-color: #007BFF;
+      color: #ffffff;
+      padding: 12px 20px;
+      border-radius: 5px;
+      text-decoration: none;
+      font-size: 0.9em;
+      transition: background-color 0.3s;
+    }
+    .download-buttons a:hover {
+      background-color: #0056b3;
+    }
+    .releases-button {
+      display: inline-block;
+      background-color: var(--button-bg);
+      color: #ffffff;
+      padding: 12px 25px;
+      border-radius: 50px;
+      text-decoration: none;
+      font-size: 0.9em;
+      transition: background-color 0.3s;
+      margin-top: 40px;
+    }
+    .releases-button:hover {
+      background-color: var(--button-bg-hover);
+    }
   </style>
 </head>
 <body>
@@ -152,12 +132,10 @@ tr:nth-child(even) {
       <h1>Das hier ist das Grey-NX Pack</h1>
       <p>Ein einfaches Nintendo Switch CFW Pack, basierend auf Stabilität.</p>
     </header>
-
     <section>
       <h2>Hier der entsprechende Link zu dem Hacking Guide:</h2>
       <p>Offizielles Tutorial: <a href="https://switch.hacks.guide/" target="_blank">Switch-Hacks-Guide</a></p>
     </section>
-
     <section>
       <h2>CFW Daten/Homebrew Apps</h2>
       <table>
@@ -359,7 +337,6 @@ tr:nth-child(even) {
         </tbody>
       </table>
     </section>
-
     <section class="download-section">
       <h2>Downloads</h2>
       <div class="download-buttons">
@@ -369,7 +346,6 @@ tr:nth-child(even) {
       </div>
       <a class="releases-button" href="https://github.com/Nico-Shock/Grey-NX-Pack/releases" target="_blank">Alle Releases ansehen</a>
     </section>
-
     <footer>
       <p>&copy; 2025 Grey-NX Pack</p>
     </footer>
