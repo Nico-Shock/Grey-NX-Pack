@@ -1,162 +1,149 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Grey-NX Pack</title>
   <style>
-    :root {
-      --bg-color: #0a0f1c;
-      --container-bg: #111827;
-      --header-footer-bg: #1f2937;
-      --text-color: #e0e0e0;
-      --accent-color: #60a5fa;
-      --border-color: #374151;
-      --table-header-bg: #1e293b;
-      --row-even-bg: #121826;
-      --button-bg: #007bff;
-      --button-bg-hover: #0056b3;
-      --secondary-button-bg: #8A2BE2;
-      --secondary-button-bg-hover: #68228B;
-      --shadow-glow: 0px 0px 10px rgba(0, 122, 255, 0.4);
-    }
+:root {
+  --bg-color: #0a0f1c;
+  --container-bg: #111827;
+  --header-footer-bg: #1f2937;
+  --text-color: #e0e0e0;
+  --accent-color: #60a5fa;
+  --border-color: #374151;
+  --table-header-bg: #1e293b;
+  --row-even-bg: #121826;
+  --button-bg: #8A2BE2;
+  --button-bg-hover: #68228B;
+  --secondary-button-bg: #5a189a;
+  --secondary-button-bg-hover: #3c096c;
+}
 
-    * {
-      box-sizing: border-box;
-    }
+* {
+  box-sizing: border-box;
+}
 
-    body {
-      background-color: var(--bg-color);
-      color: var(--text-color);
-      font-family: 'Segoe UI', sans-serif;
-      font-size: 16px;
-      margin: 0;
-      padding: 10px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
-    }
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
 
-    .container {
-      max-width: 960px;
-      width: 100%;
-      background-color: var(--container-bg);
-      border-radius: 8px;
-      overflow: hidden;
-      box-shadow: var(--shadow-glow);
-      border: 1px solid var(--border-color);
-      margin: 10px;
-    }
+.container {
+  max-width: 960px;
+  width: 100%;
+  background-color: var(--container-bg);
+  border: 1px solid var(--border-color);
+  margin: 10px;
+}
 
-    header, footer {
-      background-color: var(--header-footer-bg);
-      padding: 15px;
-      text-align: center;
-    }
+header, footer {
+  background-color: var(--header-footer-bg);
+  padding: 10px;
+  text-align: center;
+}
 
-    header h1, footer p {
-      margin: 0;
-      font-weight: bold;
-    }
+header h1, footer p {
+  margin: 0;
+  font-weight: bold;
+}
 
-    h1, h2, h3 {
-      color: #ffffff;
-      margin: 0.5em 0;
-    }
+h1, h2, h3 {
+  color: #ffffff;
+  margin: 0.5em 0;
+}
 
-    a {
-      color: var(--accent-color);
-      text-decoration: none;
-      transition: color 0.3s, text-shadow 0.3s;
-    }
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+  transition: color 0.3s;
+}
 
-    a:hover {
-      color: #93c5fd;
-      text-shadow: 0px 0px 5px rgba(96, 165, 250, 0.8);
-    }
+a:hover {
+  color: #93c5fd;
+}
 
-    p {
-      line-height: 1.4;
-      margin: 0 0 1em;
-    }
+p {
+  line-height: 1.4;
+  margin: 0 0 1em;
+}
 
-    section {
-      padding: 15px;
-    }
+section {
+  padding: 10px;
+}
 
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 15px 0;
-      font-size: 0.85em;
-      border-radius: 6px;
-      overflow: hidden;
-    }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 15px 0;
+  font-size: 0.85em;
+}
 
-    th, td {
-      padding: 8px;
-      border: 1px solid var(--border-color);
-      text-align: left;
-    }
+th, td {
+  padding: 5px;
+  border: 1px solid var(--border-color);
+  text-align: left;
+}
 
-    th {
-      background-color: var(--table-header-bg);
-      text-transform: uppercase;
-    }
+th {
+  background-color: var(--table-header-bg);
+  text-transform: uppercase;
+}
 
-    tr:nth-child(even) {
-      background-color: var(--row-even-bg);
-    }
+tr:nth-child(even) {
+  background-color: var(--row-even-bg);
+}
 
-    .download-section {
-      text-align: center;
-      padding: 15px;
-    }
+.download-section {
+  text-align: center;
+  padding: 10px;
+}
 
-    .download-section h2 {
-      font-size: 1.6em;
-      margin-bottom: 15px;
-    }
+.download-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 15px;
+}
 
-    .download-buttons {
-      display: flex;
-      justify-content: center;
-      gap: 10px;
-      flex-wrap: wrap;
-      margin-bottom: 15px;
-    }
+.download-buttons a {
+  background-color: #007BFF;
+  color: #ffffff;
+  padding: 12px 20px;
+  border-radius: 3px;
+  text-decoration: none;
+  font-size: 0.9em;
+  transition: background-color 0.3s;
+}
 
-    .download-buttons a {
-      background-color: var(--button-bg);
-      color: #ffffff;
-      padding: 10px 15px;
-      border-radius: 6px;
-      text-decoration: none;
-      font-size: 0.85em;
-      transition: background-color 0.3s, box-shadow 0.3s;
-    }
+.download-buttons a:hover {
+  background-color: #0056b3;
+}
 
-    .download-buttons a:hover {
-      background-color: var(--button-bg-hover);
-      box-shadow: var(--shadow-glow);
-    }
+.releases-button {
+  display: inline-block;
+  background-color: #8A2BE2;
+  color: #ffffff;
+  padding: 12px 25px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 0.9em;
+  transition: background-color 0.3s;
+  margin-top: 40px;
+}
 
-    .releases-button {
-      display: inline-block;
-      background-color: var(--secondary-button-bg);
-      color: #ffffff;
-      padding: 10px 20px;
-      border-radius: 30px;
-      text-decoration: none;
-      font-size: 0.85em;
-      transition: background-color 0.3s, box-shadow 0.3s;
-    }
-
-    .releases-button:hover {
-      background-color: var(--secondary-button-bg-hover);
-      box-shadow: var(--shadow-glow);
-    }
+.releases-button:hover {
+  background-color: #68228B;
+}
   </style>
 </head>
 <body>
