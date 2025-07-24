@@ -1,65 +1,110 @@
-
 <!DOCTYPE html>
 <html lang="de">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Grey-NX Pack</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;600&display=swap" rel="stylesheet">
   <style>
     body {
       background-color: #121212;
       color: #e0e0e0;
-      font-family: 'Segoe UI', sans-serif;
+      font-family: 'Inter', sans-serif;
+      font-weight: 600;
       font-size: 17px;
       margin: 0;
-      padding: 20px;
+      padding: 25px;
       display: flex;
       justify-content: center;
     }
     .container {
       max-width: 960px;
       width: 100%;
-      border-radius: 8px;
+      background-color: #1e1e1e;
+      border-radius: 12px;
       overflow: hidden;
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
     }
-    header, footer {
+    header {
       text-align: center;
-      padding: 10px 0;
+      padding: 25px 15px;
+      border-bottom: 1px solid #333;
     }
-    h1, h2, h3 {
+    footer {
+      text-align: center;
+      padding: 20px 0;
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #888;
+    }
+    h1 {
+        font-size: 2.5em;
+        margin-bottom: 10px;
+        color: #ffffff; /* Ensure h1 color is white */
+    }
+    h2, h3 {
       color: #ffffff;
     }
     a {
       color: #bb86fc;
       text-decoration: none;
+      transition: color 0.3s ease;
     }
     a:hover {
-      text-decoration: underline;
+      color: #d0b3ff;
+      text-decoration: none;
     }
     p {
-      line-height: 1.6;
+      line-height: 1.7;
+      padding: 0 25px; /* Add padding to paragraphs for consistency */
+    }
+    section {
+      padding: 0 25px; /* Add padding to sections for consistency */
+    }
+    .guide-link {
+      margin: 20px 0;
+      padding: 0 25px;
+    }
+    .guide-link h2 {
+      margin-top: 2em;
+      border-bottom: 1px solid #444;
+      padding-bottom: 8px;
     }
     table {
       width: 100%;
       border-collapse: collapse;
       margin: 20px 0;
       font-size: 0.9em;
+      background-color: #2a2a2a; /* Slightly darker background for table */
+      border-radius: 8px; /* Rounded corners for the table */
+      overflow: hidden; /* Ensures rounded corners apply to content */
     }
     th, td {
-      padding: 5px 8px;
-      border: 1px solid #333;
+      padding: 12px 15px; /* Increased padding for better readability */
+      border: 1px solid #3a3a3a; /* Lighter border for contrast */
       text-align: left;
     }
     th {
-      background-color: #1e1e1e;
+      background-color: #333333; /* Darker header background */
+      color: #ffffff;
+      font-weight: 600;
+    }
+    td {
+        color: #e0e0e0;
+    }
+    td a {
+        font-weight: 500; /* Make links in table slightly less bold */
     }
     .download-section {
-      margin-top: 40px;
+      margin-top: 60px;
+      padding: 0 15px;
       text-align: center;
     }
     .download-section h2 {
-      margin-bottom: 20px;
-      font-size: 1.8em;
+      margin-bottom: 30px;
+      font-size: 2em;
       color: #ffffff;
     }
     .download-buttons {
@@ -71,41 +116,53 @@
     .download-buttons a {
       background-color: #007BFF;
       color: #ffffff;
-      padding: 12px 20px;
-      border-radius: 5px;
+      padding: 12px 22px;
+      border-radius: 8px;
       text-decoration: none;
-      font-size: 0.9em;
-      transition: background-color 0.3s;
+      font-size: 0.95em;
+      font-weight: 500;
+      transition: all 0.25s ease-in-out;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+      border: 1px solid transparent;
     }
     .download-buttons a:hover {
-      background-color: #0056b3;
+      background-color: #006fe6;
+      transform: translateY(-3px);
+      box-shadow: 0 7px 15px rgba(0, 0, 0, 0.25);
     }
     .releases-button {
       display: inline-block;
       background-color: #8A2BE2;
       color: #ffffff;
-      padding: 12px 25px;
+      padding: 14px 30px;
       border-radius: 50px;
       text-decoration: none;
-      font-size: 0.9em;
-      transition: background-color 0.3s;
-      margin-top: 3cm;
+      font-size: 1em;
+      font-weight: 500;
+      transition: all 0.25s ease-in-out;
+      margin-top: 45px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
     }
     .releases-button:hover {
-      background-color: #68228B;
+      background-color: #7b25c9;
+      transform: translateY(-3px);
+      box-shadow: 0 7px 15px rgba(0, 0, 0, 0.25);
     }
+    /* Removed .language-links section as requested */
   </style>
 </head>
 <body>
   <div class="container">
     <header>
-      <h1>Das hier ist das Grey-NX Pack</h1>
-      <p>Ein einfaches Nintendo Switch CFW Pack, basierend auf Stabilität.</p>
+      <h1>Grey-NX Pack Webseite</h1>
+      <p>Das ist das Grey-NX Pack, ein einfaches Nintendo Switch CFW Pack, basierend auf Stabilität.</p>
     </header>
-    <section>
+
+    <section class="guide-link">
       <h2>Hier der entsprechende Link zu dem Hacking Guide:</h2>
       <p>Offizielles Tutorial: <a href="https://switch.hacks.guide/" target="_blank">Switch-Hacks-Guide</a></p>
     </section>
+
     <section>
       <h2>CFW Daten/Homebrew Apps</h2>
       <table>
@@ -119,7 +176,7 @@
         </thead>
         <tbody>
           <tr>
-            <td><a href="https://github.com/Atmosphere-NX/Atmosphere/releases/tag/1.8.0-prerelease" target="_blank">Atmosphere</a></td>
+            <td><a href="https://github.com/Atmosphere-NX/Atmosphere/releases/tag/1.9.2" target="_blank">Atmosphere</a></td>
             <td>✅</td>
             <td>✅</td>
             <td>✅</td>
@@ -131,19 +188,19 @@
             <td>✅</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/impeeza/sys-patch/releases/tag/v1.5.5" target="_blank">Sys-Patches</a></td>
+            <td><a href="https://github.com/impeeza/sys-patch/releases/tag/v1.5.6" target="_blank">Sys-Patches</a></td>
             <td>✅</td>
             <td>✅</td>
             <td>✅</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/ppkantorski/nx-ovlloader/releases/tag/v1.0.9" target="_blank">nx-ovlloader</a></td>
+            <td><a href="https://github.com/ppkantorski/nx-ovlloader/releases/tag/v1.1.0" target="_blank">nx-ovlloader</a></td>
             <td>✅</td>
             <td>✅</td>
             <td>✅</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/Kofysh/Lockpick_RCM/releases/tag/v1.9.13" target="_blank">Lockpick RCM</a></td>
+            <td><a href="https://github.com/Kofysh/Lockpick_RCM/releases/tag/v1.9.15" target="_blank">Lockpick RCM</a></td>
             <td>✅</td>
             <td>✅</td>
             <td>✅</td>
@@ -161,7 +218,7 @@
             <td>✅</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/CTCaer/hekate/releases/tag/v6.2.2" target="_blank">Hekate</a></td>
+            <td><a href="https://github.com/CTCaer/hekate/releases/tag/v6.3.1" target="_blank">Hekate</a></td>
             <td>✅</td>
             <td>✅</td>
             <td>✅</td>
@@ -185,13 +242,13 @@
             <td>✅</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/ndeadly/MissionControl/releases/tag/v0.12.0" target="_blank">Mission Control</a></td>
+            <td><a href="https://github.com/ndeadly/MissionControl/releases/tag/v0.13.3" target="_blank">Mission Control</a></td>
             <td>✅</td>
             <td>✅</td>
             <td>✅</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/masagrator/Status-Monitor-Overlay/releases/tag/1.1.7a" target="_blank">Status Monitor</a></td>
+            <td><a href="https://github.com/masagrator/Status-Monitor-Overlay/releases/tag/1.1.9" target="_blank">Status Monitor</a></td>
             <td>✅</td>
             <td>✅</td>
             <td>✅</td>
@@ -209,7 +266,7 @@
             <td>✅</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/ppkantorski/Mod-Alchemist/releases/tag/v0.4.9" target="_blank">Mod-Alchemist</a></td>
+            <td><a href="https://github.com/ppkantorski/Mod-Alchemist/releases/tag/v0.5.4" target="_blank">Mod-Alchemist</a></td>
             <td>✅</td>
             <td>✅</td>
             <td>✅</td>
@@ -239,7 +296,7 @@
             <td></td>
           </tr>
           <tr>
-            <td><a href="https://github.com/BernardoGiordano/Checkpoint/releases/tag/v3.8.0" target="_blank">Checkpoint</a></td>
+            <td><a href="https://github.com/BernardoGiordano/Checkpoint/releases/tag/v3.10.1" target="_blank">Checkpoint</a></td>
             <td>✅</td>
             <td>✅</td>
             <td></td>
@@ -251,7 +308,7 @@
             <td></td>
           </tr>
           <tr>
-            <td><a href="https://github.com/exelix11/SwitchThemeInjector/releases/tag/v4.7.1" target="_blank">NXThemeInstaller</a></td>
+            <td><a href="https://github.com/exelix11/SwitchThemeInjector/releases/tag/v4.8.1" target="_blank">NXThemeInstaller</a></td>
             <td>✅</td>
             <td>✅</td>
             <td></td>
@@ -269,7 +326,7 @@
             <td></td>
           </tr>
           <tr>
-            <td><a href="https://github.com/XorTroll/Goldleaf/releases/tag/1.0.0" target="_blank">Goldleaf</a></td>
+            <td><a href="https://github.com/XorTroll/Goldleaf/releases/tag/1.1.1" target="_blank">Goldleaf</a></td>
             <td>✅</td>
             <td></td>
             <td></td>
@@ -293,13 +350,13 @@
             <td></td>
           </tr>
           <tr>
-            <td><a href="https://github.com/XITRIX/Moonlight-Switch/releases/tag/v1.2.3" target="_blank">Moonlight</a></td>
+            <td><a href="https://github.com/XITRIX/Moonlight-Switch/releases/tag/v1.3.3" target="_blank">Moonlight</a></td>
             <td>✅</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td><a href="https://github.com/proferabg/EdiZon-Overlay/releases/tag/v1.0.9" target="_blank">Edizon Overlay</a></td>
+            <td><a href="https://github.com/proferabg/EdiZon-Overlay/releases/tag/v1.0.10" target="_blank">Edizon Overlay</a></td>
             <td>✅</td>
             <td></td>
             <td></td>
@@ -307,15 +364,17 @@
         </tbody>
       </table>
     </section>
+
     <section class="download-section">
       <h2>Downloads</h2>
       <div class="download-buttons">
-        <a href="https://github.com/Nico-Shock/Grey-NX-Pack/releases/latest/download/Grey_NX_Pack_Advanced.7z">Advanced Pack (158MB)</a>
-        <a href="https://github.com/Nico-Shock/Grey-NX-Pack/releases/latest/download/Grey_NX_Pack_Standart.7z">Standart Pack (90,5MB)</a>
-        <a href="https://github.com/Nico-Shock/Grey-NX-Pack/releases/latest/download/Grey_NX_Pack_Minimal.7z">Minimal Pack (39,9MB)</a>
+        <a href="https://github.com/Nico-Shock/Grey-NX-Pack/releases/latest/download/Grey_NX_Pack_Advanced.7z">Advanced Pack (163MB)</a>
+        <a href="https://github.com/Nico-Shock/Grey-NX-Pack/releases/latest/download/Grey_NX_Pack_Standart.7z">Standard Pack (96,0MB)</a>
+        <a href="https://github.com/Nico-Shock/Grey-NX-Pack/releases/latest/download/Grey_NX_Pack_Minimal.7z">Minimal Pack (44,3MB)</a>
       </div>
       <a class="releases-button" href="https://github.com/Nico-Shock/Grey-NX-Pack/releases" target="_blank">Alle Releases ansehen</a>
     </section>
+
     <footer>
       <p>&copy; 2025 Grey-NX Pack</p>
     </footer>
